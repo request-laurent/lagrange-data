@@ -1,6 +1,7 @@
 
 [
     {
+        "id":30101,
         "aircraftGroupNum":1,
         "capacity":2000,
         "commandPoint":3,
@@ -31,13 +32,16 @@
         "speed":1000,
         "systems":[
             {
+                "id":3010101,
                 "enhancementsLimit":7,
                 "hp":2700,
                 "main":true,
                 "name":"system_name.3010101",
                 "optional":false,
+                "option":"",
                 "weapons":[
                     {
+                        "id":13011,
                         "aaRatio":0.7,
                         "aircraftRange":"ATTACK_RANGE_SELF",
                         "actionType":"weapon_actionType.2",
@@ -65,7 +69,6 @@
                         "installation":3,
                         "lockOn":3000.0,
                         "name":"weapon_name.13011",
-                        "option":"",
                         "priority":[
                             2.0,
                             2.0,
@@ -231,32 +234,34 @@
                 ]
             },
             {
+                "id":3010102,
                 "enhancementsLimit":3,
                 "hp":2500,
                 "main":false,
                 "name":"system_name.3010102",
                 "optional":false,
+                "option":"",
                 "weapons":[
                     {
+                        "id":39991,
                         "description":"weapon_description.39991",
                         "hitRate":[
                         ],
                         "icon":"icon_system_armor",
                         "installation":1,
                         "name":"weapon_name.39991",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.39991"
                     },
                     {
+                        "id":39003,
                         "description":"weapon_description.39003",
                         "hitRate":[
                         ],
                         "icon":"icon_system_armor",
                         "installation":1,
                         "name":"weapon_name.39003",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.39003"
@@ -320,32 +325,34 @@
                 ]
             },
             {
+                "id":3010103,
                 "enhancementsLimit":2,
                 "hp":2500,
                 "main":false,
                 "name":"system_name.3010103",
                 "optional":false,
+                "option":"",
                 "weapons":[
                     {
+                        "id":59991,
                         "description":"weapon_description.59991",
                         "hitRate":[
                         ],
                         "icon":"icon_system_dynamic",
                         "installation":1,
                         "name":"weapon_name.59991",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.59991"
                     },
                     {
+                        "id":59992,
                         "description":"weapon_description.59992",
                         "hitRate":[
                         ],
                         "icon":"icon_system_dynamic",
                         "installation":1,
                         "name":"weapon_name.59992",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.59992"
@@ -400,20 +407,22 @@
                 ]
             },
             {
+                "id":3010104,
                 "enhancementsLimit":0,
                 "hp":1800,
                 "main":false,
                 "name":"system_name.3010104",
                 "optional":false,
+                "option":"",
                 "weapons":[
                     {
+                        "id":69991,
                         "description":"weapon_description.69991",
                         "hitRate":[
                         ],
                         "icon":"icon_system_type_subsystem",
                         "installation":1,
                         "name":"weapon_name.69991",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.69991"
@@ -423,20 +432,22 @@
                 ]
             },
             {
+                "id":3010105,
                 "enhancementsLimit":0,
                 "hp":2150,
                 "main":false,
                 "name":"system_name.3010105",
                 "optional":false,
+                "option":"",
                 "weapons":[
                     {
+                        "id":79991,
                         "description":"weapon_description.79991",
                         "hitRate":[
                         ],
                         "icon":"icon_system_type_command",
                         "installation":1,
                         "name":"weapon_name.79991",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.79991"
@@ -469,6 +480,7 @@
         "variante":"A"
     },
     {
+        "id":30102,
         "aircraftGroupNum":1,
         "capacity":1500,
         "commandPoint":3,
@@ -499,13 +511,16 @@
         "speed":1000,
         "systems":[
             {
+                "id":3010201,
                 "enhancementsLimit":8,
                 "hp":3600,
                 "main":true,
                 "name":"system_name.3010201",
                 "optional":false,
+                "option":"",
                 "weapons":[
                     {
+                        "id":13011,
                         "aaRatio":0.8,
                         "aircraftRange":"ATTACK_RANGE_SELF",
                         "actionType":"weapon_actionType.2",
@@ -533,7 +548,6 @@
                         "installation":2,
                         "lockOn":3000.0,
                         "name":"weapon_name.13011",
-                        "option":"",
                         "priority":[
                             2.0,
                             2.0,
@@ -550,6 +564,7 @@
                         "typename":"weapon_typename.13011"
                     },
                     {
+                        "id":13012,
                         "aaRatio":0.8,
                         "aircraftRange":"ATTACK_RANGE_SELF",
                         "actionType":"weapon_actionType.2",
@@ -577,7 +592,6 @@
                         "installation":2,
                         "lockOn":2000.0,
                         "name":"weapon_name.13012",
-                        "option":"",
                         "priority":[
                             1.0,
                             1.0,
@@ -753,32 +767,34 @@
                 ]
             },
             {
+                "id":3010202,
                 "enhancementsLimit":4,
                 "hp":4300,
                 "main":false,
                 "name":"system_name.3010202",
                 "optional":false,
+                "option":"",
                 "weapons":[
                     {
+                        "id":33011,
                         "description":"weapon_description.33011",
                         "hitRate":[
                         ],
                         "icon":"icon_system_armor",
                         "installation":1,
                         "name":"weapon_name.33011",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.33011"
                     },
                     {
+                        "id":39003,
                         "description":"weapon_description.39003",
                         "hitRate":[
                         ],
                         "icon":"icon_system_armor",
                         "installation":1,
                         "name":"weapon_name.39003",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.39003"
@@ -869,32 +885,34 @@
                 ]
             },
             {
+                "id":3010203,
                 "enhancementsLimit":3,
                 "hp":2900,
                 "main":false,
                 "name":"system_name.3010203",
                 "optional":false,
+                "option":"",
                 "weapons":[
                     {
+                        "id":59991,
                         "description":"weapon_description.59991",
                         "hitRate":[
                         ],
                         "icon":"icon_system_dynamic",
                         "installation":1,
                         "name":"weapon_name.59991",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.59991"
                     },
                     {
+                        "id":59992,
                         "description":"weapon_description.59992",
                         "hitRate":[
                         ],
                         "icon":"icon_system_dynamic",
                         "installation":1,
                         "name":"weapon_name.59992",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.59992"
@@ -961,20 +979,22 @@
                 ]
             },
             {
+                "id":3010204,
                 "enhancementsLimit":0,
                 "hp":2150,
                 "main":false,
                 "name":"system_name.3010204",
                 "optional":false,
+                "option":"",
                 "weapons":[
                     {
+                        "id":69991,
                         "description":"weapon_description.69991",
                         "hitRate":[
                         ],
                         "icon":"icon_system_type_subsystem",
                         "installation":1,
                         "name":"weapon_name.69991",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.69991"
@@ -984,20 +1004,22 @@
                 ]
             },
             {
+                "id":3010205,
                 "enhancementsLimit":0,
                 "hp":2150,
                 "main":false,
                 "name":"system_name.3010205",
                 "optional":false,
+                "option":"",
                 "weapons":[
                     {
+                        "id":79991,
                         "description":"weapon_description.79991",
                         "hitRate":[
                         ],
                         "icon":"icon_system_type_command",
                         "installation":1,
                         "name":"weapon_name.79991",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.79991"
@@ -1030,6 +1052,7 @@
         "variante":"B"
     },
     {
+        "id":30103,
         "aircraftGroupNum":1,
         "capacity":2200,
         "commandPoint":3,
@@ -1060,13 +1083,16 @@
         "speed":1100,
         "systems":[
             {
+                "id":3010301,
                 "enhancementsLimit":8,
                 "hp":3050,
                 "main":true,
                 "name":"system_name.3010301",
                 "optional":false,
+                "option":"",
                 "weapons":[
                     {
+                        "id":13011,
                         "aaRatio":1.0,
                         "aircraftRange":"ATTACK_RANGE_SELF",
                         "actionType":"weapon_actionType.2",
@@ -1094,7 +1120,6 @@
                         "installation":1,
                         "lockOn":3000.0,
                         "name":"weapon_name.13011",
-                        "option":"",
                         "priority":[
                             2.0,
                             2.0,
@@ -1111,6 +1136,7 @@
                         "typename":"weapon_typename.13011"
                     },
                     {
+                        "id":13012,
                         "aaRatio":0.8,
                         "aircraftRange":"ATTACK_RANGE_SELF",
                         "actionType":"weapon_actionType.2",
@@ -1138,7 +1164,6 @@
                         "installation":2,
                         "lockOn":2000.0,
                         "name":"weapon_name.13012",
-                        "option":"",
                         "priority":[
                             1.0,
                             1.0,
@@ -1318,32 +1343,34 @@
                 ]
             },
             {
+                "id":3010302,
                 "enhancementsLimit":3,
                 "hp":2150,
                 "main":false,
                 "name":"system_name.3010302",
                 "optional":false,
+                "option":"",
                 "weapons":[
                     {
+                        "id":39991,
                         "description":"weapon_description.39991",
                         "hitRate":[
                         ],
                         "icon":"icon_system_armor",
                         "installation":1,
                         "name":"weapon_name.39991",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.39991"
                     },
                     {
+                        "id":39003,
                         "description":"weapon_description.39003",
                         "hitRate":[
                         ],
                         "icon":"icon_system_armor",
                         "installation":1,
                         "name":"weapon_name.39003",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.39003"
@@ -1407,32 +1434,34 @@
                 ]
             },
             {
+                "id":3010303,
                 "enhancementsLimit":3,
                 "hp":4300,
                 "main":false,
                 "name":"system_name.3010303",
                 "optional":false,
+                "option":"",
                 "weapons":[
                     {
+                        "id":59991,
                         "description":"weapon_description.59991",
                         "hitRate":[
                         ],
                         "icon":"icon_system_dynamic",
                         "installation":1,
                         "name":"weapon_name.59991",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.59991"
                     },
                     {
+                        "id":59992,
                         "description":"weapon_description.59992",
                         "hitRate":[
                         ],
                         "icon":"icon_system_dynamic",
                         "installation":1,
                         "name":"weapon_name.59992",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.59992"
@@ -1499,20 +1528,22 @@
                 ]
             },
             {
+                "id":3010304,
                 "enhancementsLimit":2,
                 "hp":4300,
                 "main":false,
                 "name":"system_name.3010304",
                 "optional":false,
+                "option":"",
                 "weapons":[
                     {
+                        "id":53011,
                         "description":"weapon_description.53011",
                         "hitRate":[
                         ],
                         "icon":"icon_system_dynamic",
                         "installation":1,
                         "name":"weapon_name.53011",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.53011"
@@ -1557,20 +1588,22 @@
                 ]
             },
             {
+                "id":3010305,
                 "enhancementsLimit":0,
                 "hp":1800,
                 "main":false,
                 "name":"system_name.3010305",
                 "optional":false,
+                "option":"",
                 "weapons":[
                     {
+                        "id":69991,
                         "description":"weapon_description.69991",
                         "hitRate":[
                         ],
                         "icon":"icon_system_type_subsystem",
                         "installation":1,
                         "name":"weapon_name.69991",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.69991"
@@ -1580,20 +1613,22 @@
                 ]
             },
             {
+                "id":3010306,
                 "enhancementsLimit":0,
                 "hp":2150,
                 "main":false,
                 "name":"system_name.3010306",
                 "optional":false,
+                "option":"",
                 "weapons":[
                     {
+                        "id":79991,
                         "description":"weapon_description.79991",
                         "hitRate":[
                         ],
                         "icon":"icon_system_type_command",
                         "installation":1,
                         "name":"weapon_name.79991",
-                        "option":"",
                         "priority":[
                         ],
                         "typename":"weapon_typename.79991"
